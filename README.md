@@ -4,4 +4,4 @@
 
 Screenshots:
 
-![loading](./screenShots/screenShot2.jpg)
+![loading](/screenShots/screenShot2.jpg)
