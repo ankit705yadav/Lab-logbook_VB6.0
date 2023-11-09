@@ -8,3 +8,5 @@ loading screen
 
 <!-- Home
 ![home](./screenShots/Screenshot%20from%202023-11-05%2021-59-15.png) -->
+
+<img alt=="ss" src="./screenShots/Screenshot from 2023-11-05 21-59-15.png" />
